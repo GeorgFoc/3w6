@@ -37,12 +37,12 @@
       "KC_COMM",
       "KC_DOT",
       "RSFT_T(KC_SLSH)",
-      "LGUI_T(KC_DEL)",
-      "LALT_T(KC_SPC)",
+      "LGUI_T(KC_BSPC)",
+      "LALT_T(KC_DEL)",
       "TO(0)",
       "OSL(1)",
       "RCTL_T(KC_ENT)",
-      "RALT_T(KC_BSPC)"
+      "RALT_T(KC_SPC)"
     ],
     [
       "KC_ESC",
