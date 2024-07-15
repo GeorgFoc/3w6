@@ -12,4 +12,10 @@
 #define USB_VBUS_PIN GP19
 
 #define SPLIT_POINTING_ENABLE
+
+#define MASTER_RIGHT
+#define TAPPING_TERM 300  // Die Zeit in Millisekunden, innerhalb derer ein Tap erkannt wird.
+#define PERMISSIVE_HOLD  // Aktiviert permissives Halten, damit das Halten von Modifiern zuverlässiger erkannt wird.
+#define TAPPING_FORCE_HOLD
 #define POINTING_DEVICE_RIGHT
+
